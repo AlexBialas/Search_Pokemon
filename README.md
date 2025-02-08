@@ -1,5 +1,8 @@
 # Pokémon Search Engine
 
+![Screenshot from 2025-02-08 09-57-22](https://github.com/user-attachments/assets/bb46cd1e-ffbc-4f3c-bc90-dbe39cf3fec3)
+
+
 ## Overview
 
 The Pokémon Search Engine is a simple web application that allows users to search for information about Pokémon using the Pokémon API. Users can type in a Pokémon's name and view its details, including stats and abilities, along with an image of the Pokémon.
